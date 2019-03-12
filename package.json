@@ -1,7 +1,7 @@
 {
   "name": "vue-network-check",
   "description": "vue网络检测插件，检测到网络连接失败，会在顶部展示微信网络连接一样的提示",
-  "version": "0.0.4",
+  "version": "1.0.0",
   "author": "marvengong",
   "license": "MIT",
   "private": false,
